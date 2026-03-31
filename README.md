@@ -398,7 +398,7 @@ FID is computed every 10 validation steps (every 50k training iters) using 20 ba
 
 ---
 
-## 🔬 Technical References
+## Technical References
 
 - **Swin Transformer**: Liu et al., "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows", ICCV 2021
 - **BIFPN**: Tan et al., "EfficientDet: Scalable and Efficient Object Detection", CVPR 2020
