@@ -149,7 +149,7 @@ out  = conv( w2[0]·f1 + w2[1]·mid + w2[2]·f3 )
 
 ---
 
-## 📊 Results
+## Results
 
 ### Quantitative Comparison
 
