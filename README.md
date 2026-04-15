@@ -398,6 +398,14 @@ FID is computed every 10 validation steps (every 50k training iters) using 20 ba
 
 ---
 
+## Results
+#### Model inference with ground truth
+<img src="results/inference/expA_mode1_with_gt_5col.png" width="800" height=""/>
+
+#### Model inference without ground truth (only masked input)
+<img src="results/inference/expB2_masked_only_fresh.png" width="400" height=""/>
+
+---
 ## Technical References
 
 - **Swin Transformer**: Liu et al., "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows", ICCV 2021
