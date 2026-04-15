@@ -9,6 +9,7 @@
 
 ### *Swin Transformer · FFT Branch · BIFPN Fusion · Domain-Adversarial Transfer Learning*
 #### *Course: Generative AI,  Lecturer: V. Avetisyan,  University: NPUA*
+#### *Students: Elen Shahbazyan, Alisa Sujyan*
 
 </div>
 
